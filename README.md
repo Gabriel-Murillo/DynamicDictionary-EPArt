@@ -1,2 +1,2 @@
-# DynamicDictionary-EPArt
-A little bit of background info about this program: I was taking an art summer class and I knew I was going to miss the last four days because I was going to take a CS Logic Course at Stanford. So my teacher and I made a deal that if I used my "tech skills
+# DynamicDictionary-Elements and Principles of Art
+A little bit of background info about this program: I was taking an art summer class and I knew I was going to miss the last four days because I was going to take a CS Logic Course at Stanford. So my teacher and I made a deal that if I used my "tech skills" to build an art related program she would give me full credit and participation for the missing the last four days. I built a "dynamic art dictionary" that contained all the terms that we were studying and applying in the class, including their name, classification, and definition, with a background and image to complement them. 
